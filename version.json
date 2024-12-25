@@ -1,7 +1,3 @@
 {
-  "version": "0.8.0",
-  "files": [
-    "TestConnectAI.exe",
-    "psycho.db"
-  ]
+  "version": "0.8.2"
 }
